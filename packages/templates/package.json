@@ -36,7 +36,7 @@
     "lodash.template": "^4.5.0",
     "scule": "^1.0.0",
     "upath": "^2.0.1",
-    "vite": "^4.0.4",
+    "vite": "^4.1.1",
     "vite-plugin-windicss": "^1.8.10",
     "windicss": "^3.5.6"
   },
